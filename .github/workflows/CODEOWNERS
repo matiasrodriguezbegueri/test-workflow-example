@@ -2,3 +2,4 @@
 *.js @usuarioEjemplo
 *.yml @usuarioEjemplo
 /public/ @usuarioEjemplo
+
